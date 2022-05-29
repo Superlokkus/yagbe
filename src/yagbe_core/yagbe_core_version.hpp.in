@@ -6,10 +6,11 @@
 #define @PROJECT_NAME_UPPER_CASE@_VERSION_MINOR @PROJECT_VERSION_MINOR@
 
 namespace
-@PROJECT_NAME@ {
+yagbe {
 
 constexpr unsigned @PROJECT_NAME@_version_major {
-@PROJECT_VERSION_MAJOR@};
+@PROJECT_VERSION_MAJOR@
+};
 constexpr unsigned @PROJECT_NAME@_version_minor {
 @PROJECT_VERSION_MINOR@};
 constexpr unsigned @PROJECT_NAME@_version_patch {
