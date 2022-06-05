@@ -8,7 +8,8 @@ configure_file(
 )
 
 set(${PROJECT_NAME}_implementation_files
-        src/lib.cpp
+        src/dmg/cpu.hpp
+        src/dmg/dmg.cpp
         )
 
 
