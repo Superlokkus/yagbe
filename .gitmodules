@@ -1,0 +1,3 @@
+[submodule "vendor/mk_sdl2"]
+	path = vendor/mk_sdl2
+	url = git@github.com:Superlokkus/mk_sdl2.git
